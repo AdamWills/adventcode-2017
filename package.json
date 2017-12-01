@@ -1,0 +1,15 @@
+{
+  "name": "advent-code-2017",
+  "version": "1.0.0",
+  "description": "Exercises for Advent of Code 2017",
+  "main": "index.js",
+  "author": "Adam Wills <adam@adamwills.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "4.0.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/mocha/bin/mocha"
+  }
+}
