@@ -10,10 +10,6 @@ describe('Day 2', function () {
     assert.equal(18, day2.getChecksumA(input));
   });
 
-  // describe('Testing line calculations', () => {
-  //   assert.equal(4, day2.getLineTotal([5,9,2,8]));
-  // });
-
   describe('Testing checksum B', () => {
     const input = `5 9 2 8
     9 4 7 3
